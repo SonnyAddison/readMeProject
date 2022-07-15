@@ -42,6 +42,9 @@
 
   Once the application is running answer the questions that generate i.e. "What is the Name of your project?.  Be sure that you enter all information that is asked before hitting enter. (Very important note if you have a lot of information to present). *At this time you will have manually enter any screenshots you want to add, this will be a quick follow on tech debt to correct.
 
+![Answer all questions or go no further](/Develop/assets/images/haveToAnswersAllQuestions.jpg)  
+![All questions answered](/Develop/assets/images/questionsAnswered.jpg)
+
 ---
 ##  Credit
 
