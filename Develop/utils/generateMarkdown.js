@@ -15,7 +15,7 @@ generateMardown = (data) => {
   2. [Installation](#installation)
   3. [Usage](#usage)
   4. [Credit](#credit)
-  5. [License](#badges)
+  5. [License](#license)
   6. [Contribution](#contributing)
   7. [Tests](#tests)
   8. [Questions](#questions)
@@ -25,13 +25,13 @@ generateMardown = (data) => {
 
   ${data.description}  
 
-    User Story  
+  User Story  
+  
+  ${data.userStory}  
 
-      ${data.userStory}  
+  Acceptance Criteria  
 
-    Acceptance Criteria  
-
-      ${data.acceptanceCriteria}
+  ${data.acceptanceCriteria}
       
 ---
 ## Installation
@@ -51,7 +51,7 @@ generateMardown = (data) => {
 ---
 ##  License
 
-  ${data.badges}
+  ${data.license}
 ---
 ##  Contribution
 

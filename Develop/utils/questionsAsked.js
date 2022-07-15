@@ -70,7 +70,7 @@ const questions = [
       {
         type: 'input',
         name: 'github',
-        message: 'Whatt is your GitHub Username?',
+        message: 'What is your GitHub Username?',
         validate:(value)=>{if(value){return true} else {return 'Please fill out to continue forward'}}
       },
       {
