@@ -51,7 +51,7 @@ generateMardown = (data) => {
 ---
 ##  License
 
-  ${data.license}
+  ${data.badges}
 ---
 ##  Contribution
 
