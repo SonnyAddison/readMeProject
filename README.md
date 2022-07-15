@@ -57,6 +57,9 @@ To install this program, clone this repository, open up your terminal/gitbash, a
 
 ![All questions answered](/Develop/assets/images/questionsAnswered.jpg)  
 
+Viedo Tutorial  
+https://drive.google.com/file/d/1lQmzbrXZJD8MjBA-1oTJNYcsxeeqh9cj/view?usp=sharing
+
 ---
 ## Credits
 
