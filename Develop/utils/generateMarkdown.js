@@ -9,9 +9,9 @@ generateMardown = (data) => {
 
 ## Contents
 
-  1. [Description](#description)
-         [User Stroy](#user-story)
-         [Acceptance Criteria](#acceptance-criteria)
+  1. [Description](#description)  
+         [User Stroy](#user-story)  
+         [Acceptance Criteria](#acceptance-criteria)  
   2. [Installation](#installation)
   3. [Usage](#usage)
   4. [Credit](#credit)
