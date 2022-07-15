@@ -12,7 +12,8 @@ const writeFileAsync = util.promisify(fs.writeFile);
 
 
 // function to initialize app and build out README.md
-async function init(){
+const inquierer = () => Promises.resolve(init());
+const init = async() => {
   try {
     const reply = await inquirer.prompt(questions);
     reply.badge = badges(reply.license);
