@@ -1,9 +1,8 @@
-generateMardown = (data) => {
-  return `
 
-  # ${data.title}
 
-    ${data.badge}
+  # why
+
+    undefined
     
 ---
 
@@ -23,48 +22,45 @@ generateMardown = (data) => {
 ---  
 ## Description
 
-  ${data.description}
+  one
 
-      ${data.userStory}
-      ${data.acceptanceCriteria}
+      two
+      three
       
 ---
 ## Installation
 
-  ${data.installation}
+  four
 
 ---
 ## Usage
 
-  ${data.usage}
+  five
 
 ---
 ##  Credit
 
-  ${data.credit}
+  six
 
 ---
 ##  License
 
-  ${data.license}
+  AGPL License
 ---
 ##  Contribution
 
-  ${data.contributing}
+  seven
 
 ---
 ##  Tests
 
-  ${data.tests}
+  undefined
 
 ---
 ##  Questions
 
       Contact me at:  
   
-        E-mail: ${data.email}  
-        Github: ${data.github}  
-        LinkedIn: ${data.linkedin} ` 
-}
-
-  module.exports = generateMardown;
+        E-mail: nine  
+        Github: undefined  
+        LinkedIn: undefined 
